@@ -1,4 +1,4 @@
-a{
+nav a{
 	text-decoration: none;
 	color: #3c3c3c;
 	transition: all 0.15s ease-in;
@@ -6,9 +6,9 @@ a{
 	padding-bottom: 5px; 
 }
 
-a:hover{
+nav a:hover{
 	border-bottom: 2px solid #80a06e;
-	color: #80a06e
+	color: #80a06e;
 }
 
 nav{
@@ -56,6 +56,11 @@ nav .nav-section ul li{
 nav .nav-section img.logo{
 	height: 125px;
 	widows: auto;
+}
+
+nav .nav-section span  {
+	display: block;
+	margin-top: 5px;
 }
 
 nav .nav-section span img {
