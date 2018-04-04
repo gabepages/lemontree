@@ -1,0 +1,19 @@
+.contact-info{
+	display: flex;
+	flex-direction: column;
+}
+
+.contact-info a{
+	margin-bottom: 12px;
+	color: #3c3c3c;
+}
+
+.contact-info a:hover{
+	opacity: 0.75;
+}
+
+.contact-info img{
+	width: 23px;
+	vertical-align: sub;
+	margin-right: 5px;
+}

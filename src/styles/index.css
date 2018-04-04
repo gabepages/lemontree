@@ -8,3 +8,22 @@ body {
 	max-width: 80vw;
 	margin: 0 auto;
 }
+
+main.container{
+	min-height: 60vh;
+}
+
+h1,h2,h3,h4{
+	font-weight: lighter;
+	color: #2c2c2c;
+}
+
+p, a{
+	font-weight: lighter;
+	text-decoration: none;
+}
+
+p{
+	line-height: 22px;
+}
+

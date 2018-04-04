@@ -1,9 +1,9 @@
 import React from 'react';
 
 const Home = (props) => (
-	<div className="container">
-		Home Page
-	</div>
+	<main className="container">
+		Home Page Content Filler
+	</main>
 )
 
 
