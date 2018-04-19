@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container{
+	max-width: 80vw;
+	margin: 0 auto;
+}
+
+main{
+	min-height: 60vh;
+}
+
+h1,h2,h3,h4{
+	font-weight: lighter;
+	color: #2c2c2c;
+}
+
+p, a{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+	text-decoration: none;
+	color: #4c4c4c;
+}
+
+p{
+	line-height: 22px;
+	margin: 0 0 15px;
+}
+
