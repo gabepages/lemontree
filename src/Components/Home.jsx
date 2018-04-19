@@ -26,7 +26,7 @@ const Home = (props) => (
 				</div>
 			</div>
 			<h2>Featured Items</h2>
-			<p className="width-sm">Here are some of our favorite items we have made and or sold in the past. If you see something you like, let us know and we can provide you with more information on the product.</p>
+			<p className="width-sm">Here are some of our favorite items we have made and/or sold in the past. If you see something you like, let us know and we can provide you with more information on the product.</p>
 			<div className="featured-items">
 				<div className='item'>
 					<img src={FeatureOne}/>

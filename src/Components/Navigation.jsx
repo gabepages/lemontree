@@ -35,6 +35,7 @@ const Navigation = (props) => (
 		<div className="nav-section">
 			<a href="tel:813-494-4295"><span><img src={PhoneIcon} width="30"/> (813)-494-4295</span></a>
 			<a href="mailto:lemontree@earthlink.net"><span><img src={EmailIcon} width="30"/> lemontree@earthlink.net</span></a>
+			<p style={{marginTop: 5}}><strong>Hours:</strong> Tue-Sat: 10am-4pm</p>
 		</div>
 	</nav>
 )
